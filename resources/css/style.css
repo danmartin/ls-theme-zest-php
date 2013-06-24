@@ -528,5 +528,6 @@ footer p {font-size: 12px;}
   ul.form li.right {width: 49%; clear: right; float: right;}
   ul.form span.comment {display: block; margin-top: 2px; color: #666; font-size: 12px; font-weight: normal;}
   ul.form li.field.radio_horizontal {margin-bottom: 10px;}
-    ul.form li.field.radio_horizontal div {display: inline-block;}
+    ul.form li.field.radio_horizontal div {display: inline-block; margin-right: 15px;}
+    ul.form li.field.radio_horizontal div span.custom {top: 1px;}
     ul.form li.field.radio_horizontal div span+span {font-size: 12px; position: relative; display: inline-block; top: -3px; left: -7px;}
